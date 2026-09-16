@@ -50,10 +50,21 @@ Graças ao Docker Hub, você não precisa clonar este código para rodar a aplic
 
 <div align="center">
 
-## 🌷 Criado por JustBruder ✨
+### 💻 Contate-me / Let's Connect
 
-💻 *Apaixonada por transformar código em infraestrutura segura.* 💖
+<p align="center">
+  <a href="https://www.linkedin.com/in/ingrid-bruder" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-C71585?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:ibruder83@gmail.com">
+    <img src="https://img.shields.io/badge/Email-C71585?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+</div>
 
-Meu LinkedIn: (https://www.linkedin.com/in/ingrid-bruder/)
-
+<div align="center">
+  <sub>Desenvolvido por JustBruder ✨</sub>
+</div>
+<div align="center">
+  <sub>🌷 Security by Design </sub>
 </div>
